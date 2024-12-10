@@ -35,7 +35,7 @@ A simple, interactive command-line **Rock, Paper, Scissors** game built using Ja
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/rock-paper-scissors.git
+   git clone https://github.com/<zubair-ahmad-beigh>/rock-paper-scissors.git
 Navigate to the directory:
 cd rock-paper-scissors
 Usage
@@ -61,7 +61,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
-Developed by Your Name.
+Developed by Zubair Ahmad Beigh.
 Feel free to reach out for feedback or collaboration!
 
 Acknowledgements
